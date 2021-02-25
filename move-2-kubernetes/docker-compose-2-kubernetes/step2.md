@@ -3,8 +3,7 @@
 Download the sample Docker Compose file by executing the below commands.
 ```
 mkdir -p samples/docker-compose
-wget https://raw.githubusercontent.com/konveyor/move2kube-demos/main/samples/docker-compose/single-service/docker-compose.yaml
-```{{execute}}
+wget https://raw.githubusercontent.com/konveyor/move2kube-demos/main/samples/docker-compose/single-service/docker-compose.yaml -p samples/docker-compose```{{execute}}
 
 The downloaded sample Docker Compose file is `docker-compose-2-kubernetes/samples/docker-compose/docker-compose.yaml`{{open}}
 
