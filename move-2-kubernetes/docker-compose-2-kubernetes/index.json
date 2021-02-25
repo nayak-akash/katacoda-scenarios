@@ -12,7 +12,7 @@
       },
       {
         "title": "Load data",
-        "code": "clear.sh"
+        "code": "clear.sh",
         "text": "step2.md"
       },
       {
