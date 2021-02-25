@@ -1,7 +1,7 @@
 ## Installing Move2Kube
 
 To install Move2Kube on Katacoda, run the command
-`bash <(curl https://raw.githubusercontent.com/konveyor/move2kube/main/scripts/install.sh)`{{execute}}
+`bash <(curl https://raw.githubusercontent.com/konveyor/move2kube/main/scripts/install.sh) </dev/null`{{execute}}
 
 Now, running `move2kube version`{{execute}} should output the Move2Kube version.
 
