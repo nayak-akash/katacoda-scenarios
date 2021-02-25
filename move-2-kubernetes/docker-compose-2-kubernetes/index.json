@@ -1,0 +1,39 @@
+{
+  "private": "true",
+  "title": "Translate Docker Compose Applications to Kubernetes using Move2Kube",
+  "description": "In this scenario, you will learn how to migrate and deploy Docker Compose/Swarm Apps to Kubernetes.",
+  "difficulty": "Beginner",
+  "time": "5-10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Install",
+        "text": "step1.md"
+      },
+      {
+        "title": "Load data",
+        "text": "step2.md"
+      },
+      {
+        "title": "Translate",
+        "text": "step3.md"
+      },
+      {
+        "title": "Deploy",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
